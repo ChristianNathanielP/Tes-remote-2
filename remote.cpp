@@ -7,7 +7,6 @@ int main()
         cout << i ;
     }
     
-    cout << "Hello World!";
     
     return 0;
 }
